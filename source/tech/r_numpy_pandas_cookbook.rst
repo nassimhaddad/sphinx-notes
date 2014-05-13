@@ -82,11 +82,11 @@ is essentially a strict subset of that provided by the pandas DataFrame.`
 
 R::
 
-    # r code here
+    print pit
 
 Python::
 
-    # python code here.
+    print np.pi
 
 2.2 - Setting Variables
 ----------------------------------------------------------------------
