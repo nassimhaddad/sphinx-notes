@@ -106,11 +106,11 @@ Python::
 
 R::
 
-    # r code here
+    ls()
 
 Python::
 
-    # python code here.
+    whos
 
 2.4 - Deleting Variables
 ----------------------------------------------------------------------
