@@ -82,7 +82,7 @@ is essentially a strict subset of that provided by the pandas DataFrame.`
 
 R::
 
-    print pit
+    print pi
 
 Python::
 
